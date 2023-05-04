@@ -1,0 +1,3 @@
+* Simple Blog
+
+A simple blog that serves posts and a home page
